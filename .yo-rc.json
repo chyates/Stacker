@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Carolyn Yates",
+      "authorEmail": "chyatesil@gmail.com",
+      "authorUrl": "https://github.com/chyates"
+    }
+  }
+}
